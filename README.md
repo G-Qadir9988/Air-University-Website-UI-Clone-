@@ -17,7 +17,7 @@ This UI clone serves as a prototype for improved usability, accessibility, and s
 - **Version**: 1.0 🔢  
 - **Identifier**: AU-CLONE-2025 🆔  
 - **Status**: Complete ✅  
-- **Authors**: Ghulam Qadir, Noor Malik 👥  
+- **Author**: Ghulam Qadir 
 - **Technologies**: HTML, CSS, JavaScript, Bootstrap 5 💻  
 - **Repository Type**: Static Frontend 📁  
 - **Distribution**: GitHub, Advisor, Portfolio 📤  
