@@ -93,10 +93,17 @@ This UI clone serves as a prototype for improved usability, accessibility, and s
 
 ---
 
-## 🤝 **Contributing**  
-Want to improve this UI or adapt it for another university? Fork this repository and follow these steps:
+## 📜 **License**
 
-```bash
-git clone https://github.com/yourusername/au-ui-clone.git  
-cd au-ui-clone  
-# Customize and launch 🚀
+This project is open-source and available for **educational** and **portfolio** purposes under the **MIT License**.
+
+---
+
+## 📧 **Contact**
+
+**👨‍💻 Ghulam Qadir**  
+*IT Student*  
+📍 Rawalpindi, Pakistan  
+📧 [gqitspecialist@gmail.com](mailto:gqitspecialist@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ghulam-qadir-07a982365)
+
